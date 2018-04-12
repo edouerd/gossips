@@ -1,5 +1,11 @@
 ---
 
+- title: Baba Yaga
+  city: Hudson
+  ext-url: http://http://babayaga.earth
+  nice-url: babayaga.earth
+  living: true
+
 - title: 0dx
   city: New York
   ext-url: http://0dx.org/
