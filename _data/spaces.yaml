@@ -1,5 +1,11 @@
 ---
 
+- title: 2727 California Street
+  city: Berkeley
+  ext-url: https://2727.today
+  nice-url: 2727.today
+  living: true
+
 - title: Baba Yaga
   city: Hudson
   ext-url: http://babayaga.earth
