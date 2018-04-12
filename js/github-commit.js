@@ -15,7 +15,7 @@ $(function() {
       $.each(commitRaw, function(index, c) {
           var message = c.commit.message;
 
-          $(".interview").append('<p><i>' + message + '</i></p>');
+          $(".interview").append('<p>' + message + '</p>');
       });
 
       console.log(commitRaw);
