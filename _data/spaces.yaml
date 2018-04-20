@@ -1,5 +1,11 @@
 ---
 
+- title: Paradise
+  city: Earth
+  ext-url: http://inparadi.se
+  nice-url: inparadi.se
+  living: true
+
 - title: 2727 California Street
   city: Berkeley
   ext-url: https://2727.today
