@@ -1,5 +1,11 @@
 ---
 
+- title: Ghost
+  city: Earth
+  ext-url: http://ghostfeaturefilm.com
+  nice-url: ghostfeaturefilm.com
+  living: true
+
 - title: Wild Flower
   city: Baltimore
   ext-url: http://wildflowerbaltimore.us/
