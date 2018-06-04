@@ -1,5 +1,11 @@
 ---
 
+- title: Menagerie
+  city: Twentynine Palms
+  ext-url: http://menagerie.place/
+  nice-url: menagerie.place
+  living: true
+
 - title: Song Cycle
   city: New York
   ext-url: http://songcycle.us
